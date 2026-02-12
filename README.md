@@ -1,5 +1,5 @@
 # Coffee-Website ☕
-![Pagina Principal](Captura de pantalla 2024-10-23 150423.png)
+![Pagina Principal](Captura%20de%20pantalla%202024-10-23%20150423.png)
 Un sitio web moderno y elegante para una cafetería de especialidad, diseñado para ofrecer una experiencia visual inmersiva. El proyecto aplica principios de diseño **"Mobile First"** para garantizar una navegación fluida en cualquier dispositivo.
 
 ---
